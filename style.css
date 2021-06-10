@@ -1,0 +1,40 @@
+.img2{
+    text-align: center;
+    width:200px;
+    height:200px;
+}
+body{
+    text-align: center;
+    background-color: deeppink;
+}
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: center;
+    top:10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    scroll-behavior: smooth;
+    background-color: black;
+}
+.links{
+float:center;
+    color:white;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:33px;
+    padding-right:25px;
+    font-family:monospace;
+    font-size:20px;
+    display:inline;
+    background-color: black;
+}
+.flower{
+    width:1140px;
+    height:1000px;
+}
+img{
+    width:450px;
+    height:500px;
+}
